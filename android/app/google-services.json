@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "293929151852",
+    "project_id": "gadaelectronics-6c2be",
+    "storage_bucket": "gadaelectronics-6c2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293929151852:android:470359b2e23dfdec7bd749",
+        "android_client_info": {
+          "package_name": "com.example.gada_electronics_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293929151852-enr3uabk95lengot2tmivsssudta3fnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gada_electronics_admin",
+            "certificate_hash": "6177b7d66a4fac0cc57979bd24176f2ffc1a0880"
+          }
+        },
+        {
+          "client_id": "293929151852-483pks268hc8ortv75gci6ierbl11f94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDksiRli4hbcgIV7hXx7hN3RjYqVbgzrJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293929151852-483pks268hc8ortv75gci6ierbl11f94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293929151852:android:0066d160ac7a59217bd749",
+        "android_client_info": {
+          "package_name": "com.example.management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293929151852-483pks268hc8ortv75gci6ierbl11f94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDksiRli4hbcgIV7hXx7hN3RjYqVbgzrJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293929151852-483pks268hc8ortv75gci6ierbl11f94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
